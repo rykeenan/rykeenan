@@ -1,10 +1,9 @@
 ## Hello, I'm Ryan! 👋
 
-I am an inspring Cybersecurity Analyst who is working ... Here you will find projects and certifications I have completed along with projects I am currently collaborating on. Let's connect !! :) 
+I'm an emerging cybersecurity analyst, working to establish myself in the industry. Here you can explore my completed projects collaborative work and certifications. Let's connect !! :) 
 
-Let the Force Be With You I'm an inspiring Cybersecurity Analyst who is striving to get his foot into the industry. Here you will find projects I have completed, collaborate projects, and certification I have completed.🌱
+May the Force Be With You ![yoda_lightsaber](https://github.com/user-attachments/assets/9b06b4a5-1f61-476e-b194-c1e7edc023ca)
 
-![bluelightsaber](https://github.com/user-attachments/assets/791dc574-c834-4e80-b74a-36da090f7449)
 
 <!--
 **rykeenan/rykeenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
