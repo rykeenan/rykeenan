@@ -1,6 +1,6 @@
 ## Hello, I'm Ryan! 👋
 
-I'm an inspringing Cybersecurity Analyst who is striving to get his foot into the industry. Here you will find projects I have completed, collaborate projects, and certification I have completed.🌱
+I'm an enspiring Cybersecurity Analyst who is striving to get his foot into the industry. Here you will find projects I have completed, collaborate projects, and certification I have completed.🌱
 
 
 <!--
