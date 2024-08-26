@@ -1,6 +1,8 @@
 ## Hello, I'm Ryan! 👋
 
-I'm an inspiring Cybersecurity Analyst who is striving to get his foot into the industry. Here you will find projects I have completed, collaborate projects, and certification I have completed.🌱
+I am an inspring Cybersecurity Analyst who is working ... Here you will find projects and certifications I have completed along with projects I am currently collaborating on. Let's connect !! :) 
+
+Let the Force Be With You https://slackmojis.com/emojis/32992-bluelightsaber/download I'm an inspiring Cybersecurity Analyst who is striving to get his foot into the industry. Here you will find projects I have completed, collaborate projects, and certification I have completed.🌱
 
 
 <!--
