@@ -1,6 +1,6 @@
 ## Hello, I'm Ryan! 👋
 
-I'm an emerging cybersecurity analyst, working to establish myself in the industry. Here you can explore my completed projects collaborative work and certifications. Let's connect !! :) 
+I'm an emerging cybersecurity analyst, working to establish myself in the industry. Here you can explore my completed projects collaborative work and certifications. Let's connect! 
 
 May the Force Be With You ![yoda_lightsaber](https://github.com/user-attachments/assets/9b06b4a5-1f61-476e-b194-c1e7edc023ca)
 
