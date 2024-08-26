@@ -2,8 +2,9 @@
 
 I am an inspring Cybersecurity Analyst who is working ... Here you will find projects and certifications I have completed along with projects I am currently collaborating on. Let's connect !! :) 
 
-Let the Force Be With You https://slackmojis.com/emojis/32992-bluelightsaber/download I'm an inspiring Cybersecurity Analyst who is striving to get his foot into the industry. Here you will find projects I have completed, collaborate projects, and certification I have completed.🌱
+Let the Force Be With You I'm an inspiring Cybersecurity Analyst who is striving to get his foot into the industry. Here you will find projects I have completed, collaborate projects, and certification I have completed.🌱
 
+![bluelightsaber](https://github.com/user-attachments/assets/791dc574-c834-4e80-b74a-36da090f7449)
 
 <!--
 **rykeenan/rykeenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
